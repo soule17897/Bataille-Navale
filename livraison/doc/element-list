@@ -1,0 +1,7 @@
+main.bataillenavale.core
+main.bataillenavale.model
+main.bataillenavale.model.jouer
+main.bataillenavale.model.joueur
+main.bataillenavale.model.navire
+main.bataillenavale.observer
+main.bataillenavale.vue

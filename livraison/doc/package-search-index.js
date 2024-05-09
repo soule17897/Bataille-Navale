@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"main.bataillenavale.core"},{"l":"main.bataillenavale.model"},{"l":"main.bataillenavale.model.jouer"},{"l":"main.bataillenavale.model.joueur"},{"l":"main.bataillenavale.model.navire"},{"l":"main.bataillenavale.observer"},{"l":"main.bataillenavale.vue"}]
